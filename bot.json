@@ -1,0 +1,217 @@
+[
+  {
+    "response_type": "greeting",
+    "user_input": ["hello", "hi", "hey"],
+    "bot_response": "Hey there!",
+    "required_words": []
+  },
+
+
+
+  {
+    "response_type": "greeting",
+    "user_input": ["see you", "goodbye", "bye"],
+    "bot_response": "See you later!",
+    "required_words": []
+  },
+  {
+    "response_type": "greeting",
+    "user_input": ["nice", "to", "meet", "you"],
+    "bot_response": "The pleasure is all mine!",
+    "required_words": ["nice", "meet", "you"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "code", "coding", "apps"],
+    "bot_response": "Start by typing: 'How to learn coding' on Google.",
+    "required_words": ["learn", "code"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["refund", "how", "can", "I", "get"],
+    "bot_response": "We don't offer refunds for free education.",
+    "required_words": ["refund", "i"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "are", "you"],
+    "bot_response": "I'm great! Thanks for asking.",
+    "required_words": ["how", "are", "you"]
+  },
+
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "start", "a", "small", "business"],
+    "bot_response": "Starting a small business involves creating a business plan, securing financing, and choosing a legal structure. It's crucial to research your market and have a marketing strategy.",
+    "required_words": ["start", "small", "business"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "climate", "change", "and", "its", "effects"],
+    "bot_response": "Climate change refers to long-term shifts in global weather patterns. It leads to rising temperatures, extreme weather events, sea-level rise, and impacts on ecosystems.",
+    "required_words": ["climate", "change", "effects"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "a", "new", "language", "effectively"],
+    "bot_response": "Effective language learning involves daily practice, immersion, and using language-learning apps and resources. Consistency and setting achievable goals are key.",
+    "required_words": ["learn", "language", "effectively"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "benefits", "of", "regular", "exercise"],
+    "bot_response": "Regular exercise offers benefits like improved cardiovascular health, weight management, reduced stress, and increased energy levels.",
+    "required_words": ["benefits", "regular", "exercise"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "write", "an", "effective", "resume"],
+    "bot_response": "An effective resume includes a clear format, relevant content, and focuses on accomplishments. Tailor it to the job you're applying for and use action verbs.",
+    "required_words": ["write", "effective", "resume"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "blockchain", "technology", "and", "its", "uses"],
+    "bot_response": "Blockchain is a decentralized ledger technology. It's used for secure transactions, supply chain management, and cryptocurrencies like Bitcoin.",
+    "required_words": ["blockchain", "technology", "uses"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "manage", "time", "efficiently"],
+    "bot_response": "Time management involves setting priorities, using tools like calendars, and breaking tasks into smaller steps. Avoid multitasking and focus on one task at a time.",
+    "required_words": ["manage", "time", "efficiently"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "effects", "of", "stress", "on", "health"],
+    "bot_response": "Stress can lead to various health issues like high blood pressure, anxiety, and digestive problems. Managing stress through relaxation techniques is essential.",
+    "required_words": ["effects", "stress", "health"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "grow", "a", "garden", "at", "home"],
+    "bot_response": "Start a home garden by choosing the right location, preparing the soil, and selecting suitable plants. Regular watering and care are vital for success.",
+    "required_words": ["grow", "garden", "home"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "importance", "of", "saving", "money"],
+    "bot_response": "Saving money is crucial for financial security and achieving long-term goals. It provides a safety net for emergencies and the ability to invest for the future.",
+    "required_words": ["importance", "saving", "money"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "improve", "public", "speaking", "skills"],
+    "bot_response": "Improving public speaking skills involves practice, seeking feedback, and using techniques like visualization and deep breathing. Joining a public speaking group can be helpful.",
+    "required_words": ["improve", "public", "speaking"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "artificial", "intelligence", "and", "its", "applications"],
+    "bot_response": "Artificial intelligence (AI) refers to machines mimicking human intelligence. AI is used in areas like self-driving cars, healthcare, and virtual assistants.",
+    "required_words": ["artificial", "intelligence", "applications"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "cook", "a", "healthy", "meal"],
+    "bot_response": "Cooking a healthy meal involves choosing fresh ingredients, avoiding excessive oil and sugar, and using cooking methods like grilling or steaming.",
+    "required_words": ["cook", "healthy", "meal"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "effects", "of", "global", "warming"],
+    "bot_response": "Global warming leads to melting ice caps, rising sea levels, and disruptions in weather patterns. It poses a threat to ecosystems and biodiversity.",
+    "required_words": ["effects", "global", "warming"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "start", "a", "fitness", "routine"],
+    "bot_response": "Begin a fitness routine by setting clear goals, choosing activities you enjoy, and creating a schedule. Gradually increase intensity and seek professional guidance if needed.",
+    "required_words": ["start", "fitness", "routine"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "the", "impact", "of", "social", "media", "on", "society"],
+    "bot_response": "Social media has influenced communication, business, and activism. It connects people globally but also raises concerns about privacy and online behaviors.",
+    "required_words": ["impact", "social", "media"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "improve", "your", "writing", "skills"],
+    "bot_response": "Improving writing skills involves reading, practicing writing regularly, and seeking feedback. Learning grammar and style rules is essential.",
+    "required_words": ["improve", "writing", "skills"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "benefits", "of", "meditation"],
+    "bot_response": "Meditation offers benefits like reduced stress, improved focus, and better emotional well-being. It promotes relaxation and mindfulness.",
+    "required_words": ["benefits", "meditation"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "build", "a", "website", "for", "your", "business"],
+    "bot_response": "Building a business website involves domain registration, selecting a hosting provider, and designing the site. Ensure it's user-friendly and mobile-responsive.",
+    "required_words": ["build", "website", "business"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "sustainable", "living", "and", "its", "importance"],
+    "bot_response": "Sustainable living involves reducing waste, conserving energy, and using eco-friendly products. It's important for a greener and more environmentally friendly future.",
+    "required_words": ["sustainable", "living", "importance"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "budget", "your", "finances", "effectively"],
+    "bot_response": "Effective budgeting includes tracking expenses, setting financial goals, and creating a spending plan. It helps you manage money and save for the future.",
+    "required_words": ["budget", "finances", "effectively"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "start", "a", "small", "business"],
+    "bot_response": "Starting a small business involves creating a business plan, securing financing, and choosing a legal structure. It's crucial to research your market and have a marketing strategy.",
+    "required_words": ["start", "small", "business"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "climate", "change", "and", "its", "effects"],
+    "bot_response": "Climate change refers to long-term shifts in global weather patterns. It leads to rising temperatures, extreme weather events, sea-level rise, and impacts on ecosystems.",
+    "required_words": ["climate", "change", "effects"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "learn", "a", "new", "language", "effectively"],
+    "bot_response": "Effective language learning involves daily practice, immersion, and using language-learning apps and resources. Consistency and setting achievable goals are key.",
+    "required_words": ["learn", "language", "effectively"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "benefits", "of", "regular", "exercise"],
+    "bot_response": "Regular exercise offers benefits like improved cardiovascular health, weight management, reduced stress, and increased energy levels.",
+    "required_words": ["benefits", "regular", "exercise"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "write", "an", "effective", "resume"],
+    "bot_response": "An effective resume includes a clear format, relevant content, and focuses on accomplishments. Tailor it to the job you're applying for and use action verbs.",
+    "required_words": ["write", "effective", "resume"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "is", "blockchain", "technology", "and", "its", "uses"],
+    "bot_response": "Blockchain is a decentralized ledger technology. It's used for secure transactions, supply chain management, and cryptocurrencies like Bitcoin.",
+    "required_words": ["blockchain", "technology", "uses"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["how", "to", "manage", "time", "efficiently"],
+    "bot_response": "Time management involves setting priorities, using tools like calendars, and breaking tasks into smaller steps. Avoid multitasking and focus on one task at a time.",
+    "required_words": ["manage", "time", "efficiently"]
+  },
+  {
+    "response_type": "question",
+    "user_input": ["what", "are", "the", "effects", "of", "stress", "on", "health"],
+    "bot_response": "Stress can lead to various health issues like high blood pressure, anxiety, and digestive problems. Managing stress through relaxation techniques is essential.",
+    "required_words": ["effects", "stress", "health"]
+  }
+
+]
